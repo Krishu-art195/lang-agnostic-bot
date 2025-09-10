@@ -3,6 +3,8 @@ googletrans==4.0.0rc1
 langdetect
 rapidfuzz
 PyPDF2
-
+deep_translator
 dotenv
 langchain
+
+
