@@ -7,8 +7,8 @@ deep_translator
 dotenv
 langchain
 openai
-textwrap
 os
-time
+
+
 
 
